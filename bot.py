@@ -173,6 +173,7 @@ async def main(bot, message):
 				parse_mode="Markdown",
 				reply_markup=InlineKeyboardMarkup(
 					[[InlineKeyboardButton("Open Link", url=share_link)], [InlineKeyboardButton("Support Group", url="https://t.me/moviez_cafe_38") InlineKeyboardButton("Moviez Café™", url="https://t.me/moviezcafe38")]]
+				)
 				disable_web_page_preview=True
 			)
 		except Exception as err:
