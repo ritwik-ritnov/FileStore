@@ -17,7 +17,7 @@ This is the Permanent Files Store Bot for [Moviez Café™](https://t.me/moviezc
 
 😎 **Developed By** [W∆LT3R](https://t.me/ritwikRG)
 
-👥 **Support Group:** [Moviez Café™ Discussion](https://t.me/linux_repo)
+👥 **Support Group:** [Moviez Café™ Discussion](https://t.me/moviez_cafe_38)
 
 📢 **Channel:** [Moviez Café™](https://t.me/moviezcafe38)
 """
