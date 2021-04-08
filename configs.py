@@ -13,9 +13,9 @@ class Config(object):
 	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
 	LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL"))
 	ABOUT_BOT_TEXT = f"""
-This is the Permanent Files Store Bot for [**Moviez Café™**](https://t.me/moviezcafe38)
+This is the Permanent Files Store Bot for [Moviez Café™](https://t.me/moviezcafe38)
 
-😎 **Developed By** [W∆LT3R] (https://t.me/ritwikRG)
+😎 **Developed By** [W∆LT3R](https://t.me/ritwikRG)
 
 👥 **Support Group:** [Moviez Café™ Discussion](https://t.me/linux_repo)
 
@@ -29,7 +29,7 @@ This is the Permanent Files Store Bot for [**Moviez Café™**](https://t.me/mov
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot** For [Moviez Café™](https://t.me/moviezcafe38)
 
-Owened By [W∆LT3R] (https://t.me/ritwikRG) 😎
+Owened By [W∆LT3R](https://t.me/ritwikRG) 😎
 
 Check **About Bot** Button.
 """
